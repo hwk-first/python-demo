@@ -4,8 +4,7 @@ from flask_cors import CORS
 from device_api import device_bp
 import db
 
-#hwk
-
+#123
 # 初始化 Flask 应用
 app = Flask(__name__)
 # 解决跨域问题，允许前端访问
