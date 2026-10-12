@@ -1,6 +1,8 @@
 from flask import Flask, request, jsonify
 from flask_cors import CORS
 
+#####
+
 from device_api import device_bp
 import db
 
