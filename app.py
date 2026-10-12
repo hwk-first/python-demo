@@ -3,6 +3,8 @@ from flask_cors import CORS
 
 #####
 
+#hard
+
 from device_api import device_bp
 import db
 
