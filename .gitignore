@@ -1,0 +1,15 @@
+# Python缓存文件
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+.env
+*.log
+
+# VSCode配置
+.vscode/
+
+# Windows系统文件
+Thumbs.db
